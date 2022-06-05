@@ -1,0 +1,38 @@
+body{
+	font: 20px Times New Roman, Serif;
+}
+.navbar{
+	background-color: #FFD700;
+}
+.funcionamos{
+	background-color: #8181F7;
+	color: white;
+}
+.margin{
+	padding-bottom: 40px;
+	padding-top: 10px;
+}
+.Locacao{
+	background-color: lightgreen;
+
+}
+h4{
+	text-align: left;
+	margin-left: 50px;
+	
+
+}
+h6{
+	color: white;
+	text-shadow: black 0.1em 0.1em 0.2em;
+	text-align: left;
+	margin-left: 50px;
+
+}
+
+.bg-footer{
+	background-color: black;
+	color: white;
+}
+
+

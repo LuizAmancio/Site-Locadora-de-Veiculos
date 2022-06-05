@@ -1,0 +1,44 @@
+
+fieldset{
+	border: 0;
+}
+div#cont{
+	background-color: #EEA2AD;
+	font-size: 1em;
+	margin-left: 400px;
+	color: black;
+	margin-top: 10px;
+	
+}
+input,select,textarea,button{
+	border-radius: 5px;
+}
+
+.campo{
+	margin-bottom: 1em;
+}
+.campo label{
+	margin-bottom: 0.2em;
+	color: black;
+	display: block;
+}
+
+	
+}
+.campo input[type="text"],, .campo select, .campo textarea{
+	padding: 4px;
+	border: 1px solid;
+	box-shadow: 2px 2px 2px black;
+}
+.bot{
+	font-size: 1em;
+	margin-bottom: 1em;
+	color: black;
+	background-color: #EEE9E9;
+	padding: 3px 8px;
+	box-shadow: 2px 2px 2px black;
+	margin-top: auto;
+	
+	
+	
+}
